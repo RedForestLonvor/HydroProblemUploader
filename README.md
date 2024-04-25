@@ -20,4 +20,6 @@ HydroOJ可以通过FPS文件导入题目，但是往往FPS文件中会包含大�
 
 
 
-**collaborated with ChatGPT**
+## 注：
+
+`data/`中包含一个来自usaco的样例
